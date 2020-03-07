@@ -4,23 +4,27 @@
   
     
     <entry>
-      <title>测试一下博客</title>
+      <title>测试一下好用不</title>
       <link href="/2020/03/07/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/"/>
       <url>/2020/03/07/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>测试一下，好不好使</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>测试好不好使</p>]]></content>
       
       
       <categories>
           
-          <category> 测试 </category>
+          <category> 测试博客 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> hexo 测试 blog </tag>
+            <tag> Hexo </tag>
+            
+            <tag> Markdown </tag>
+            
+            <tag> 测试 </tag>
             
         </tags>
       
