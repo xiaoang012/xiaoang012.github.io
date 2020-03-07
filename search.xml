@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>测试一下</title>
+      <link href="/2020/03/07/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/"/>
+      <url>/2020/03/07/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">title: 测试一下博客</span><br><span class="line">date: </span><br><span class="line">tags: hexo 测试 blog</span><br><span class="line">categories: 测试</span><br><span class="line">keywords: 测试</span><br><span class="line">description: 测试用</span><br><span class="line">top_img: https:&#x2F;&#x2F;wallroom.io&#x2F;img&#x2F;2560x1440&#x2F;bg-109c727.jpg</span><br><span class="line">comments: </span><br><span class="line">cover:  </span><br><span class="line">toc:   </span><br><span class="line">toc_number:  </span><br><span class="line">copyright:  </span><br><span class="line">mathjax: </span><br><span class="line">katexhide:</span><br></pre></td></tr></table></figure></div><p>测试一下，好不好使</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第一篇博客</title>
       <link href="/2020/03/05/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
       <url>/2020/03/05/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
