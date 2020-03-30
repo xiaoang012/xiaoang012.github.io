@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>windows好用软件推荐</title>
+      <link href="/2020/03/30/windows%E5%A5%BD%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+      <url>/2020/03/30/windows%E5%A5%BD%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>网盘链接：</p><p>链接：<a href="https://pan.baidu.com/s/1xH9ejcTckPGOrL_oMFlY3w" target="_blank" rel="noopener">https://pan.baidu.com/s/1xH9ejcTckPGOrL_oMFlY3w</a><br>提取码：uvcx</p><h4 id="截图工具："><a href="#截图工具：" class="headerlink" title="截图工具："></a>截图工具：</h4><p>Snipaste：（推荐）<br>    :解压缩，双击启动，f1快捷截图，f3贴图</p><hr><h4 id="全盘资源检索：（比系统自带的快N倍）"><a href="#全盘资源检索：（比系统自带的快N倍）" class="headerlink" title="全盘资源检索：（比系统自带的快N倍）"></a>全盘资源检索：（比系统自带的快N倍）</h4><ol><li>Wox-1.3.578：（推荐：界面美观）    <pre><code>：解压缩后，直接双击使用。设置快捷键后，能够进行磁盘全盘资源检索。   能够集成许多插件，搭配好后，使用起来效率翻倍。</code></pre></li><li>Everything-1.4.1.935.x64：（推荐）<br>   ：解压缩后，直接双击使用。功能同上，第一次启动，需要扫描全盘做索引，花费大约10秒。<pre><code>之后再次启动，无延迟，搜索速度比wox差不多。</code></pre>   设置快捷键后，直接快捷键启动。</li></ol><p>​            更多使用方法，可以百度。</p><hr><h4 id="杀毒软件推荐：-火绒（推荐）"><a href="#杀毒软件推荐：-火绒（推荐）" class="headerlink" title="杀毒软件推荐：  火绒（推荐）"></a>杀毒软件推荐：  火绒（推荐）</h4><pre><code>1.  无广告，能够阻止几乎所有弹窗。耗费资源低。   2.   比360全家桶省心。</code></pre><hr><h4 id="清理垃圾工具："><a href="#清理垃圾工具：" class="headerlink" title="清理垃圾工具："></a>清理垃圾工具：</h4><p>​    </p><ol><li>CCleanerProPlus_v5617392：<pre><code>解压缩，双击能用</code></pre></li></ol><p>​    使用起来比较简单，可根据需要，进行删除。可以配合火绒使用，也可以独立使用。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 工具 </tag>
+            
+            <tag> windows </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>JVM篇(垃圾回收算法分类)</title>
       <link href="/2020/03/30/JVM%E7%AF%87-%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E7%AE%97%E6%B3%95%E5%88%86%E7%B1%BB/"/>
       <url>/2020/03/30/JVM%E7%AF%87-%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E7%AE%97%E6%B3%95%E5%88%86%E7%B1%BB/</url>
@@ -35,7 +62,7 @@
       <link href="/2020/03/07/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/"/>
       <url>/2020/03/07/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><link href="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.css" rel="stylesheet"><script src="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.js"></script>    <div id="aplayer-PRbrooOn" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="3986040" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"></div><p>​        你的电脑桌面有没有被各种各样的图标侵占，文档和软件的分类杂乱无章，当你看了我接下来要介绍的软件之后，你就能打造属于你的个性桌面啦！</p><p>​        今天要分享的是关于个人的电脑桌面打理技巧，一个好的桌面，能够在开机后，给人一种轻松愉悦的体验感，开启舒爽的一天。关于电脑桌面的打理，我也是逐渐摸索出来的经验，现在整理分享给大家。</p><p>​        下面将会介绍一些实用的工具，来打造专属你的桌面风格。</p><p>​        首先，先放上效果图，这是没图标模式。</p><p><a href="https://i.loli.net/2020/03/10/WAwKN8aIb1igJ5t.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://i.loli.net/2020/03/10/WAwKN8aIb1igJ5t.png" class="lazyload"></a></p><p>​        接下来是带图标的，当当当当~，是不是有不一样的感觉。</p><p><a href="https://i.loli.net/2020/03/10/FK62tekx3V7pBsn.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://i.loli.net/2020/03/10/FK62tekx3V7pBsn.png" class="lazyload"></a></p><p>​        首先，是左上方的日历，简单明了的展示出了当月的日历，即使不看手机，也能知道几月几号星期几，当天还会红色高亮显示。</p><p>​        当然，这里用到的是Rainmeter中的日历小插件，Rainmeter是一款高度定制桌面的软件。你可以对系统的皮肤主题、自由添加定制系统状态监视的各个小部件。如果觉得动手操作每个细节太麻烦的话，可以在 雨滴美化社区 和 Rainmeter 百度贴吧 这两个知名的中文资源论坛找到各种资源和教程。在Rainmeter中，你能找到很多有趣的小插件，来丰富你的桌面。具体的使用方法可以自行百度，或者在公众号中回复桌面来获取详细信息。后期会更新出来的。</p><p>​         其次是win10的任务栏，有没有注意到，是透明的，告别了原本的小黑边。让你的桌面看起来，有没有更加清爽。这里用到的是TranslucentTB软件，一款非常小巧的软件，只有2M左右的大小，将它设置成开机自启，也只是占用很小的内存。</p><p>​        TranslucentTB 是一款可以让 Windows 系统底部任务栏变得模糊、半透明或者完全透明化的小工具，比较遗憾的是，TranslucentTB 目前仅支持 Windows 10 系统。</p><p><a href="https://i.loli.net/2020/03/10/qYpocyhCPsIZEND.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://i.loli.net/2020/03/10/qYpocyhCPsIZEND.png" class="lazyload"></a></p><p><a href="https://i.loli.net/2020/03/10/7HxAnFEZaML4RBw.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://i.loli.net/2020/03/10/7HxAnFEZaML4RBw.png" class="lazyload"></a></p><p>​        好了，看了这两款小工具，有没有想尝试的冲动？那就去试试吧。后续还会更新相关的小工具，比如右下角关于内存和网速显示的小工具，桌面图标的管理工具等等。</p><p>​        看完之后，记得点赞哦</p><p>​        也可以关注我的wx公众号：蜜蜂小窝，获取更多精彩内容。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><link href="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.css" rel="stylesheet"><script src="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.js"></script>    <div id="aplayer-AflXNmsU" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="3986040" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"></div><p>​        你的电脑桌面有没有被各种各样的图标侵占，文档和软件的分类杂乱无章，当你看了我接下来要介绍的软件之后，你就能打造属于你的个性桌面啦！</p><p>​        今天要分享的是关于个人的电脑桌面打理技巧，一个好的桌面，能够在开机后，给人一种轻松愉悦的体验感，开启舒爽的一天。关于电脑桌面的打理，我也是逐渐摸索出来的经验，现在整理分享给大家。</p><p>​        下面将会介绍一些实用的工具，来打造专属你的桌面风格。</p><p>​        首先，先放上效果图，这是没图标模式。</p><p><a href="https://i.loli.net/2020/03/10/WAwKN8aIb1igJ5t.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://i.loli.net/2020/03/10/WAwKN8aIb1igJ5t.png" class="lazyload"></a></p><p>​        接下来是带图标的，当当当当~，是不是有不一样的感觉。</p><p><a href="https://i.loli.net/2020/03/10/FK62tekx3V7pBsn.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://i.loli.net/2020/03/10/FK62tekx3V7pBsn.png" class="lazyload"></a></p><p>​        首先，是左上方的日历，简单明了的展示出了当月的日历，即使不看手机，也能知道几月几号星期几，当天还会红色高亮显示。</p><p>​        当然，这里用到的是Rainmeter中的日历小插件，Rainmeter是一款高度定制桌面的软件。你可以对系统的皮肤主题、自由添加定制系统状态监视的各个小部件。如果觉得动手操作每个细节太麻烦的话，可以在 雨滴美化社区 和 Rainmeter 百度贴吧 这两个知名的中文资源论坛找到各种资源和教程。在Rainmeter中，你能找到很多有趣的小插件，来丰富你的桌面。具体的使用方法可以自行百度，或者在公众号中回复桌面来获取详细信息。后期会更新出来的。</p><p>​         其次是win10的任务栏，有没有注意到，是透明的，告别了原本的小黑边。让你的桌面看起来，有没有更加清爽。这里用到的是TranslucentTB软件，一款非常小巧的软件，只有2M左右的大小，将它设置成开机自启，也只是占用很小的内存。</p><p>​        TranslucentTB 是一款可以让 Windows 系统底部任务栏变得模糊、半透明或者完全透明化的小工具，比较遗憾的是，TranslucentTB 目前仅支持 Windows 10 系统。</p><p><a href="https://i.loli.net/2020/03/10/qYpocyhCPsIZEND.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://i.loli.net/2020/03/10/qYpocyhCPsIZEND.png" class="lazyload"></a></p><p><a href="https://i.loli.net/2020/03/10/7HxAnFEZaML4RBw.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://i.loli.net/2020/03/10/7HxAnFEZaML4RBw.png" class="lazyload"></a></p><p>​        好了，看了这两款小工具，有没有想尝试的冲动？那就去试试吧。后续还会更新相关的小工具，比如右下角关于内存和网速显示的小工具，桌面图标的管理工具等等。</p><p>​        看完之后，记得点赞哦</p><p>​        也可以关注我的wx公众号：蜜蜂小窝，获取更多精彩内容。</p>]]></content>
       
       
       <categories>
